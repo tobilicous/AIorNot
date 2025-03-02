@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "video1": {
+            "video_url": "uploads/1/scene1-ours-1.mp4"
+        },
+        "video2": {
+            "video_url": "uploads/1/scene1-lapp-6.mp4"
+        },
+        "target": "tomato can"
+    },
+    {
+        "id": 2,
+        "video1": {
+            "video_url": "uploads/2/scene2-ours-1.mp4"
+        },
+        "video2": {
+            "video_url": "uploads/2/scene2-lapp-6.mp4"
+        },
+        "target": "matcha can"
+    },
+    {
+        "id": 3,
+        "video1": {
+            "video_url": "uploads/3/scene3-ours-5.mp4"
+        },
+        "video2": {
+            "video_url": "uploads/3/scene3-lapp-11.mp4"
+        },
+        "target": "tomato"
+    },
+    {
+        "id": 4,
+        "video1": {
+            "video_url": "uploads/4/scene4-ours-4.mp4"
+        },
+        "video2": {
+            "video_url": "uploads/4/scene4-lapp-6.mp4"
+        },
+        "target": "toy dinosaur"
+    },
+    {
+        "id": 5,
+        "video1": {
+            "video_url": "uploads/5/scene5-ours-1.mp4"
+        },
+        "video2": {
+            "video_url": "uploads/5/scene5-lapp-1.mp4"
+        },
+        "target": "pepsi"
+    },
+    {
+        "id": 6,
+        "video1": {
+            "video_url": "uploads/6/scene6-ours-8.mp4"
+        },
+        "video2": {
+            "video_url": "uploads/6/scene6-lapp-4.mp4"
+        },
+        "target": "box"
+    },
+    {
+        "id": 7,
+        "video1": {
+            "video_url": "uploads/7/scene7-ours-10.mp4"
+        },
+        "video2": {
+            "video_url": "uploads/7/scene7-lapp-3.mp4"
+        },
+        "target": "matcha can"
+    },
+    {
+        "id": 8,
+        "video1": {
+            "video_url": "uploads/8/scene8-ours-7.mp4"
+        },
+        "video2": {
+            "video_url": "uploads/8/scene8-lapp-6.mp4"
+        },
+        "target": "tomato"
+    },
+    {
+        "id": 9,
+        "video1": {
+            "video_url": "uploads/9/scene9-ours-9.mp4"
+        },
+        "video2": {
+            "video_url": "uploads/9/scene9-lapp-5.mp4"
+        },
+        "target": "tomato"
+    },
+    {
+        "id": 10,
+        "video1": {
+            "video_url": "uploads/10/scene10-ours-1.mp4"
+        },
+        "video2": {
+            "video_url": "uploads/10/scene10-lapp-4.mp4"
+        },
+        "target": "bowl"
+    }
+]

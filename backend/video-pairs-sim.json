@@ -1,0 +1,292 @@
+[
+    {
+      "id": 1,
+      "video1": {"video_url": "uploads/1/scene1-default-center-rrt_star-200-10-10_video.mp4"},
+      "video2": {"video_url": "uploads/1/scene1-default-center-rrt_star-200-10-02_video.mp4"},
+      "target": "tomato can"
+    },
+    {
+      "id": 2,
+      "video1": {"video_url": "uploads/2/scene2-default-center-rrt_star-200-10-06_video.mp4"},
+      "video2": {"video_url": "uploads/2/scene2-default-center-rrt_star-200-10-08_video.mp4"},
+      "target": "matcha can"
+    
+    },
+    {
+      "id": 3,
+      "video1": {"video_url": "uploads/3/scene3-default-center-rrt_star-200-10-07_video.mp4"},
+      "video2": {"video_url": "uploads/3/scene3-default-center-rrt_star-200-10-06_video.mp4"},
+      "target": "tomato"
+    },
+    {
+      "id": 4,
+      "video1": {"video_url": "uploads/4/scene4-default-center-rrt_star-200-10-07_video.mp4"},
+      "video2": {"video_url": "uploads/4/scene4-default-center-rrt_star-200-10-09_video.mp4"},
+      "target": "toy dinosaur"
+    },
+    {
+      "id": 5,
+      "video1": {"video_url": "uploads/5/scene5-default-center-rrt_star-200-10-03_video.mp4"},
+      "video2": {"video_url": "uploads/5/scene5-default-center-rrt_star-200-10-02_video.mp4"},
+      "target": "tuna can"
+    },
+    {
+      "id": 6,
+      "video1": {"video_url": "uploads/6/scene101-default-shelf2-center-rrt_star-200-10-08_video.mp4"},
+      "video2": {"video_url": "uploads/6/scene101-default-shelf2-center-mpc-200-10-01_video.mp4"},
+      "target": "foam brick"
+    },
+    {
+      "id": 7,
+      "video1": {"video_url": "uploads/7/scene101-cot-shelf2-center-rrt_star-200-10-01_video.mp4"},
+      "video2": {"video_url": "uploads/7/scene101-same_0-shelf2-center-rrt_star-200-10-03_video.mp4"},
+      "target": "foam brick"
+    },
+    {
+      "id": 8,
+      "video1": {"video_url": "uploads/8/scene102-default-shelf2-center-rrt-200-10-02_video.mp4"},
+      "video2": {"video_url": "uploads/8/scene102-cot-shelf2-center-rrt_star-200-10-03_video.mp4"},
+      "target": "mug"
+    },
+    {
+      "id": 9,
+      "video1": {"video_url": "uploads/9/scene102-default-shelf2-center-mpc-200-10-03_video.mp4"},
+      "video2": {"video_url": "uploads/9/scene102-default-shelf2-center-rrt_star-200-10-03_video.mp4"},
+      "target": "mug"
+    },
+    {
+      "id": 10,
+      "video1": {"video_url": "uploads/10/scene103-default-shelf2-center-rrt_star-200-10-03_video.mp4"},
+      "video2": {"video_url": "uploads/10/scene103-same_0-shelf2-center-rrt_star-200-10-01_video.mp4"},
+      "target": "mug"
+    },
+    {
+      "id": 11,
+      "video1": {"video_url": "uploads/11/scene103-default-shelf2-center-rrt-200-10-04_video.mp4"},
+      "video2": {"video_url": "uploads/11/scene103-cot-shelf2-center-rrt_star-200-10-04_video.mp4"},
+      "target": "mug"
+    },
+    {
+      "id": 12,
+      "video1": {"video_url": "uploads/12/scene101-shelf2-center-lapp_video.mp4"},
+      "video2": {"video_url": "uploads/12/scene101-cot-shelf2-center-rrt_star-200-10-07_video.mp4"},
+      "target": "foam brick"
+    },
+    {
+      "id": 13,
+      "video1": {"video_url": "uploads/13/scene104-default-shelf2-center-rrt_star-200-10-02_video.mp4"},
+      "video2": {"video_url": "uploads/13/scene104-cot-shelf2-center-rrt-200-10-04_video.mp4"},
+      "target": "pudding box"
+    },
+    {
+      "id": 14,
+      "video1": {"video_url": "uploads/14/scene104-same_0-shelf2-center-rrt_star-200-10-03_video.mp4"},
+      "video2": {"video_url": "uploads/14/scene104-default-shelf2-center-rrt_star-200-10-05_video.mp4"},
+      "target": "pudding box"
+    },
+    {
+      "id": 15,
+      "video1": {"video_url": "uploads/15/scene105-default-shelf2-center-rrt_star-200-10-05_video.mp4"},
+      "video2": {"video_url": "uploads/15/scene105-cot-shelf2-center-rrt-200-10-01_video.mp4"},
+      "target": "mug"
+    },
+    {
+      "id": 16,
+      "video1": {"video_url": "uploads/16/scene105-same_0-shelf2-center-rrt_star-200-10-02_video.mp4"},
+      "video2": {"video_url": "uploads/16/scene105-cot-shelf2-center-rrt_star-200-10-05_video.mp4"},
+      "target": "mug"
+    },
+    {
+      "id": 17,
+      "video1": {"video_url": "uploads/17/scene106-default-shelf2-center-mpc-200-10-02_video.mp4"},
+      "video2": {"video_url": "uploads/17/scene106-default-shelf2-center-rrt_star-200-10-01_video.mp4"},
+      "target": "pudding box"
+    },
+    {
+      "id": 18,
+      "video1": {"video_url": "uploads/18/scene106-shelf2-center-lapp_video.mp4"},
+      "video2": {"video_url": "uploads/18/scene106-cot-shelf2-center-rrt_star-200-10-03_video.mp4"},
+      "target": "pudding box"
+    },
+    {
+      "id": 19,
+      "video1": {"video_url": "uploads/19/scene107-cot-shelf2-center-rrt_star-200-10-05_video.mp4"},
+      "video2": {"video_url": "uploads/19/scene107-default-shelf2-center-mpc-200-10-03_video.mp4"},
+      "target": "tuna fish can"
+    },
+    {
+      "id": 20,
+      "video1": {"video_url": "uploads/20/scene107-cot-shelf2-center-rrt_star-200-10-04_video.mp4"},
+      "video2": {"video_url": "uploads/20/scene107-shelf2-center-lapp_video.mp4"},
+      "target": "tuna fish can"
+    },
+    {
+      "id": 21,
+      "video1": {"video_url": "uploads/21/scene109-default-shelf2-center-rrt_star-200-10-04_video.mp4"},
+      "video2": {"video_url": "uploads/21/scene109-default-shelf2-center-mpc-200-10-04_video.mp4"},
+      "target": "mug"
+    },
+    {
+      "id": 22,
+      "video1": {"video_url": "uploads/22/scene109-collision_free-shelf2-right-rrt-200-10-01_video.mp4"},
+      "video2": {"video_url": "uploads/22/scene109-cot-shelf2-center-rrt_star-200-10-04_video.mp4"},
+      "target": "mug"
+    },
+    {
+      "id": 23,
+      "video1": {"video_url": "uploads/23/scene110-default-shelf2-center-rrt_star-200-10-04_video.mp4"},
+      "video2": {"video_url": "uploads/23/scene110-shelf2-center-lapp_video.mp4"},
+      "target": "colored wood blocks"
+    },
+    {
+      "id": 24,
+      "video1": {"video_url": "uploads/24/scene110-same_0-shelf2-center-mpc-200-10-01_video.mp4"},
+      "video2": {"video_url": "uploads/24/scene110-cot-shelf2-center-rrt_star-200-10-05_video.mp4"},
+      "target": "colored wood blocks"
+    },
+    {
+      "id": 25,
+      "video1": {"video_url": "uploads/25/scene111-cot-shelf2-center-rrt-200-10-01_video.mp4"},
+      "video2": {"video_url": "uploads/25/scene111-cot-shelf2-right-rrt_star-200-10-03_video.mp4"},
+      "target": "mug"
+    },
+    {
+      "id": 26,
+      "video1": {"video_url": "uploads/26/scene111-default-shelf2-center-rrt_star-200-10-01_video.mp4"},
+      "video2": {"video_url": "uploads/26/scene111-same_0-shelf2-center-rrt-200-10-02_video.mp4"},
+      "target": "mug"
+    },
+    {
+      "id": 27,
+      "video1": {"video_url": "uploads/27/scene112-cot-shelf2-center-rrt_star-200-10-04_video.mp4"},
+      "video2": {"video_url": "uploads/27/scene112-collision_free-shelf2-center-rrt-200-10-04_video.mp4"},
+      "target": "mug"
+    },
+    {
+      "id": 28,
+      "video1": {"video_url": "uploads/28/scene112-shelf2-center-lapp_video.mp4"},
+      "video2": {"video_url": "uploads/28/scene112-default-shelf2-center-rrt_star-200-10-02_video.mp4"},
+      "target": "mug"
+    },
+    {
+      "id": 29,
+      "video1": {"video_url": "uploads/29/scene112-cot-shelf2-right-rrt_star-200-10-04_video.mp4"},
+      "video2": {"video_url": "uploads/29/scene112-cot-shelf2-right-rrt_star-200-10-02_video.mp4"},
+      "target": "mug"
+    },
+    {
+      "id": 30,
+      "video1": {"video_url": "uploads/30/scene108-cot-shelf2-right-rrt_star-200-10-02_video.mp4"},
+      "video2": {"video_url": "uploads/30/scene108-collision_free-shelf2-center-rrt-200-10-02_video.mp4"},
+      "target": "sugar box"
+    },
+    {
+      "id": 31,
+      "video1": {"video_url": "uploads/31/scene108-same_0-shelf2-center-rrt_star-200-10-04_video.mp4"},
+      "video2": {"video_url": "uploads/31/scene108-cot-shelf2-right-rrt_star-200-10-01_video.mp4"},
+      "target": "sugar box"
+    },
+    {
+      "id": 32,
+      "video1": {"video_url": "uploads/32/scene108-default-shelf2-right-rrt_star-200-10-05_video.mp4"},
+      "video2": {"video_url": "uploads/32/scene108-shelf2-center-lapp_video.mp4"},
+      "target": "sugar box"
+    },
+    {
+      "id": 33,
+      "video1": {"video_url": "uploads/33/scene113-default-shelf2-right-rrt_star-200-10-03_video.mp4"},
+      "video2": {"video_url": "uploads/33/scene113-cot-shelf2-center-rrt_star-200-10-02_video.mp4"},
+      "target": "sugar box"
+    },
+    {
+      "id": 34,
+      "video1": {"video_url": "uploads/34/scene113-cot-shelf2-right-rrt-200-10-02_video.mp4"},
+      "video2": {"video_url": "uploads/34/scene113-default-shelf2-right-rrt_star-200-10-02_video.mp4"},
+      "target": "sugar box"
+    },
+    {
+      "id": 35,
+      "video1": {"video_url": "uploads/35/scene114-cot-shelf2-center-rrt_star-200-10-05_video.mp4"},
+      "video2": {"video_url": "uploads/35/scene114-cot-shelf2-center-mpc-200-10-05_video.mp4"},
+      "target": "sugar box"
+    },
+    {
+      "id": 36,
+      "video1": {"video_url": "uploads/36/scene114-cot-shelf2-center-rrt_star-200-10-03_video.mp4"},
+      "video2": {"video_url": "uploads/36/scene114-cot-shelf2-right-rrt_star-200-10-03_video.mp4"},
+      "target": "sugar box"
+    },
+    {
+      "id": 37,
+      "video1": {"video_url": "uploads/37/scene115-same_0-shelf2-center-mpc-200-10-05_video.mp4"},
+      "video2": {"video_url": "uploads/37/scene115-default-shelf2-center-rrt_star-200-10-01_video.mp4"},
+      "target": "sugar box"
+    },
+    {
+      "id": 38,
+      "video1": {"video_url": "uploads/38/scene115-cot-shelf2-center-rrt_star-200-10-02_video.mp4"},
+      "video2": {"video_url": "uploads/38/scene115-same_0-shelf2-center-rrt_star-200-10-04_video.mp4"},
+      "target": "sugar box"
+    },
+    {
+      "id": 39,
+      "video1": {"video_url": "uploads/39/scene116-shelf2-center-lapp_video.mp4"},
+      "video2": {"video_url": "uploads/39/scene116-cot-shelf2-center-rrt_star-200-10-05_video.mp4"},
+      "target": "cup"
+    },
+    {
+      "id": 40,
+      "video1": {"video_url": "uploads/40/scene116-default-shelf2-center-rrt_star-200-10-02_video.mp4"},
+      "video2": {"video_url": "uploads/40/scene116-default-shelf2-center-rrt-200-10-02_video.mp4"},
+      "target": "cup"
+    },
+    {
+      "id": 41,
+      "video1": {"video_url": "uploads/41/scene116-default-shelf2-center-mpc-200-10-02_video.mp4"},
+      "video2": {"video_url": "uploads/41/scene116-default-shelf2-center-rrt_star-200-10-05_video.mp4"},
+      "target": "cup"
+    },
+    {
+      "id": 42,
+      "video1": {"video_url": "uploads/42/scene117-default-shelf2-center-rrt_star-200-10-03_video.mp4"},
+      "video2": {"video_url": "uploads/42/scene117-same_0-shelf2-right-rrt-200-10-04_video.mp4"},
+      "target": "cup"
+    },
+    {
+      "id": 43,
+      "video1": {"video_url": "uploads/43/scene117-shelf2-center-lapp_video.mp4"},
+      "video2": {"video_url": "uploads/43/scene117-cot-shelf2-center-rrt_star-200-10-01_video.mp4"},
+      "target": "cup"
+    },
+    {
+      "id": 44,
+      "video1": {"video_url": "uploads/44/scene118-default-shelf2-right-rrt_star-200-10-02_video.mp4"},
+      "video2": {"video_url": "uploads/44/scene118-cot-shelf2-center-rrt-200-10-01_video.mp4"},
+      "target": "cup"
+    },
+    {
+      "id": 45,
+      "video1": {"video_url": "uploads/45/scene118-cot-shelf2-center-rrt_star-200-10-03_video.mp4"},
+      "video2": {"video_url": "uploads/45/scene118-default-shelf2-center-rrt_star-200-10-05_video.mp4"},
+      "target": "cup"
+    },
+    {
+      "id": 46,
+      "video1": {"video_url": "uploads/46/scene119-cot-shelf2-center-rrt_star-200-10-04_video.mp4"},
+      "video2": {"video_url": "uploads/46/scene119-same_0-shelf2-center-rrt_star-200-10-04_video.mp4"},
+      "target": "cup"
+    },
+    {
+      "id": 47,
+      "video1": {"video_url": "uploads/47/scene119-default-shelf2-center-rrt_star-200-10-03_video.mp4"},
+      "video2": {"video_url": "uploads/47/scene119-default-shelf2-right-rrt_star-200-10-03_video.mp4"},
+      "target": "cup"
+    },
+    {
+      "id": 48,
+      "video1": {"video_url": "uploads/48/scene120-cot-shelf2-center-rrt_star-200-10-02_video.mp4"},
+      "video2": {"video_url": "uploads/48/scene120-default-shelf2-center-rrt_star-200-10-04_video.mp4"},
+      "target": "cup"
+    }
+  ]
+  
